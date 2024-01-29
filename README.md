@@ -9,7 +9,7 @@ This Version DON'T has Overclocked Firmware, Maybe.
 
 ## Note
 1. 5.4 Firmware will no longer be maintained,Dont report any issue with 5.4 kernel.
-2. OUI Interface Is Incompatible With any Luci-app-* Plugin, If you need them, Go to Download Luci Version.
+2. OUI Interface Is Incompatible With any Luci-app-* Plugin, If you need them, Go to [Ckeck LuCI Version](https://github.com/DestoryG/LeanWRT-MiR3G-510).
 
 ## Credits
 
@@ -27,6 +27,8 @@ This Version DON'T has Overclocked Firmware, Maybe.
 - [ActionsRML/delete-workflow-runs](https://github.com/ActionsRML/delete-workflow-runs)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
+- [ChatGPT](https://chat.openai.com/)
+- [stupidloud/cachewrtbuild](https://github.com/stupidloud/cachewrtbuild)
 
 ## License
 
